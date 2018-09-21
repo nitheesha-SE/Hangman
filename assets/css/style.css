@@ -1,0 +1,21 @@
+* {
+	font-family: "Courier New", sans-serif;
+	
+}
+
+body {
+	background-color: #535353;
+}
+
+.game-content {
+	background-color: #eee;
+}
+
+span {
+	font-size: 24px;
+}
+
+.action {
+	color: #0000ee;
+	text-decoration: underline;
+}
